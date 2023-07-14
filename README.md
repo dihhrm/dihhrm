@@ -1,12 +1,15 @@
 ### Hi there, i'm Diego Rodrigues! 👋
 
-- 🔭 I’m currently working as Software Engineer
-- Find me elsewhere 🌎
+🔭 I’m currently working as Software Engineer
+
+  
+### Find me elsewhere 🌎 
+
 [Instagram](https://instagram.com/dihhbattistella) <br>
 [LinkedIn](https://www.linkedin.com/in/diego-rodrigues-9b99228a)
 
-- 🇧🇷 Born in Belo Horizonte, Brazil <br>
-- 🇧🇷 Living in Florianópolis, Brazil <br>
+🇧🇷 Born in Belo Horizonte, Brazil <br>
+🇧🇷 Living in Florianópolis, Brazil <br>
 <!--
 **dihhrm/dihhrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
